@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.width {
+    max-width: 600px;
+    margin: 0 auto;
+    width: 92%;
+}
+
+.header {
+    background: #111;
+    color: #fff;
+    padding: 1rem;
+
+    h1 {
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 20px;
+        
+
+        a {
+            color: #fff;
+            text-decoration: none;
+            letter-spacing: 2px;
+        }
+    }
+}
+a{
+    text-decoration: none;
+}
